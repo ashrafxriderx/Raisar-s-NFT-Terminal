@@ -7,7 +7,7 @@ All-in-one NFT launchpad on Monad for creators, influencers, and artists. Mint, 
 ## 👤 Demo User
 
 - **Email:** `demo@nftterminal.com`
-- **Password:** (set your own or use the auth form)
+- **Password:** demo123
 
 ---
 
