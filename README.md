@@ -27,8 +27,7 @@ All-in-one NFT launchpad on Monad for creators, influencers, and artists. Mint, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nft-terminal.git
-cd nft-terminal
+(git clone https://github.com/ashrafxriderx/nft-.git)
 ```
 
 ### 2. Install Dependencies
